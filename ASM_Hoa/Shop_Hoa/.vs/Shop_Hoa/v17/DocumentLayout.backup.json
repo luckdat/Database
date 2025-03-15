@@ -1,0 +1,353 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52FC678B-8B73-45B2-A63E-A635B49743A7}|Shop_Hoa\\Shop_Hoa.csproj|d:\\asm\\tung\\asm_hoa\\shop_hoa\\shop_hoa\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{52FC678B-8B73-45B2-A63E-A635B49743A7}|Shop_Hoa\\Shop_Hoa.csproj|solutionrelative:shop_hoa\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FC678B-8B73-45B2-A63E-A635B49743A7}|Shop_Hoa\\Shop_Hoa.csproj|d:\\asm\\tung\\asm_hoa\\shop_hoa\\shop_hoa\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FC678B-8B73-45B2-A63E-A635B49743A7}|Shop_Hoa\\Shop_Hoa.csproj|solutionrelative:shop_hoa\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FC678B-8B73-45B2-A63E-A635B49743A7}|Shop_Hoa\\Shop_Hoa.csproj|D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\shop_hoa\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FC678B-8B73-45B2-A63E-A635B49743A7}|Shop_Hoa\\Shop_Hoa.csproj|solutionrelative:shop_hoa\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FC678B-8B73-45B2-A63E-A635B49743A7}|Shop_Hoa\\Shop_Hoa.csproj|D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\shop_hoa\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{52FC678B-8B73-45B2-A63E-A635B49743A7}|Shop_Hoa\\Shop_Hoa.csproj|solutionrelative:shop_hoa\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FC678B-8B73-45B2-A63E-A635B49743A7}|Shop_Hoa\\Shop_Hoa.csproj|D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\shop_hoa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FC678B-8B73-45B2-A63E-A635B49743A7}|Shop_Hoa\\Shop_Hoa.csproj|solutionrelative:shop_hoa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FC678B-8B73-45B2-A63E-A635B49743A7}|Shop_Hoa\\Shop_Hoa.csproj|D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\shop_hoa\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{52FC678B-8B73-45B2-A63E-A635B49743A7}|Shop_Hoa\\Shop_Hoa.csproj|solutionrelative:shop_hoa\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FC678B-8B73-45B2-A63E-A635B49743A7}|Shop_Hoa\\Shop_Hoa.csproj|d:\\asm\\tung\\asm_hoa\\shop_hoa\\shop_hoa\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FC678B-8B73-45B2-A63E-A635B49743A7}|Shop_Hoa\\Shop_Hoa.csproj|solutionrelative:shop_hoa\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FC678B-8B73-45B2-A63E-A635B49743A7}|Shop_Hoa\\Shop_Hoa.csproj|D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\shop_hoa\\invoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{52FC678B-8B73-45B2-A63E-A635B49743A7}|Shop_Hoa\\Shop_Hoa.csproj|solutionrelative:shop_hoa\\invoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FC678B-8B73-45B2-A63E-A635B49743A7}|Shop_Hoa\\Shop_Hoa.csproj|D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\shop_hoa\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FC678B-8B73-45B2-A63E-A635B49743A7}|Shop_Hoa\\Shop_Hoa.csproj|solutionrelative:shop_hoa\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FC678B-8B73-45B2-A63E-A635B49743A7}|Shop_Hoa\\Shop_Hoa.csproj|D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\shop_hoa\\invoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FC678B-8B73-45B2-A63E-A635B49743A7}|Shop_Hoa\\Shop_Hoa.csproj|solutionrelative:shop_hoa\\invoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FC678B-8B73-45B2-A63E-A635B49743A7}|Shop_Hoa\\Shop_Hoa.csproj|D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\shop_hoa\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FC678B-8B73-45B2-A63E-A635B49743A7}|Shop_Hoa\\Shop_Hoa.csproj|solutionrelative:shop_hoa\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FC678B-8B73-45B2-A63E-A635B49743A7}|Shop_Hoa\\Shop_Hoa.csproj|D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\shop_hoa\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{52FC678B-8B73-45B2-A63E-A635B49743A7}|Shop_Hoa\\Shop_Hoa.csproj|solutionrelative:shop_hoa\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FC678B-8B73-45B2-A63E-A635B49743A7}|Shop_Hoa\\Shop_Hoa.csproj|d:\\asm\\tung\\asm_hoa\\shop_hoa\\shop_hoa\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FC678B-8B73-45B2-A63E-A635B49743A7}|Shop_Hoa\\Shop_Hoa.csproj|solutionrelative:shop_hoa\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FC678B-8B73-45B2-A63E-A635B49743A7}|Shop_Hoa\\Shop_Hoa.csproj|d:\\asm\\tung\\asm_hoa\\shop_hoa\\shop_hoa\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FC678B-8B73-45B2-A63E-A635B49743A7}|Shop_Hoa\\Shop_Hoa.csproj|solutionrelative:shop_hoa\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FC678B-8B73-45B2-A63E-A635B49743A7}|Shop_Hoa\\Shop_Hoa.csproj|d:\\asm\\tung\\asm_hoa\\shop_hoa\\shop_hoa\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FC678B-8B73-45B2-A63E-A635B49743A7}|Shop_Hoa\\Shop_Hoa.csproj|solutionrelative:shop_hoa\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FC678B-8B73-45B2-A63E-A635B49743A7}|Shop_Hoa\\Shop_Hoa.csproj|D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\shop_hoa\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{52FC678B-8B73-45B2-A63E-A635B49743A7}|Shop_Hoa\\Shop_Hoa.csproj|solutionrelative:shop_hoa\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FC678B-8B73-45B2-A63E-A635B49743A7}|Shop_Hoa\\Shop_Hoa.csproj|d:\\asm\\tung\\asm_hoa\\shop_hoa\\shop_hoa\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FC678B-8B73-45B2-A63E-A635B49743A7}|Shop_Hoa\\Shop_Hoa.csproj|solutionrelative:shop_hoa\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FC678B-8B73-45B2-A63E-A635B49743A7}|Shop_Hoa\\Shop_Hoa.csproj|D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\shop_hoa\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{52FC678B-8B73-45B2-A63E-A635B49743A7}|Shop_Hoa\\Shop_Hoa.csproj|solutionrelative:shop_hoa\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FC678B-8B73-45B2-A63E-A635B49743A7}|Shop_Hoa\\Shop_Hoa.csproj|d:\\asm\\tung\\asm_hoa\\shop_hoa\\shop_hoa\\history.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FC678B-8B73-45B2-A63E-A635B49743A7}|Shop_Hoa\\Shop_Hoa.csproj|solutionrelative:shop_hoa\\history.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FC678B-8B73-45B2-A63E-A635B49743A7}|Shop_Hoa\\Shop_Hoa.csproj|d:\\asm\\tung\\asm_hoa\\shop_hoa\\shop_hoa\\products.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FC678B-8B73-45B2-A63E-A635B49743A7}|Shop_Hoa\\Shop_Hoa.csproj|solutionrelative:shop_hoa\\products.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\Shop_Hoa\\Login.cs",
+              "RelativeDocumentMoniker": "Shop_Hoa\\Login.cs",
+              "ToolTip": "D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\Shop_Hoa\\Login.cs",
+              "RelativeToolTip": "Shop_Hoa\\Login.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowF4AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T10:35:45.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\Shop_Hoa\\Login.cs",
+              "RelativeDocumentMoniker": "Shop_Hoa\\Login.cs",
+              "ToolTip": "D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\Shop_Hoa\\Login.cs [Design]",
+              "RelativeToolTip": "Shop_Hoa\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T10:35:07.083Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\Shop_Hoa\\Home.cs",
+              "RelativeDocumentMoniker": "Shop_Hoa\\Home.cs",
+              "ToolTip": "D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\Shop_Hoa\\Home.cs [Design]",
+              "RelativeToolTip": "Shop_Hoa\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T05:46:53.622Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Products.cs [Design]",
+              "DocumentMoniker": "D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\Shop_Hoa\\Products.cs",
+              "RelativeDocumentMoniker": "Shop_Hoa\\Products.cs",
+              "ToolTip": "D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\Shop_Hoa\\Products.cs [Design]",
+              "RelativeToolTip": "Shop_Hoa\\Products.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T06:28:13.085Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "History.cs [Design]",
+              "DocumentMoniker": "D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\Shop_Hoa\\History.cs",
+              "RelativeDocumentMoniker": "Shop_Hoa\\History.cs",
+              "ToolTip": "D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\Shop_Hoa\\History.cs [Design]",
+              "RelativeToolTip": "Shop_Hoa\\History.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T06:26:48.872Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.cs",
+              "DocumentMoniker": "D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\Shop_Hoa\\Home.cs",
+              "RelativeDocumentMoniker": "Shop_Hoa\\Home.cs",
+              "ToolTip": "D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\Shop_Hoa\\Home.cs",
+              "RelativeToolTip": "Shop_Hoa\\Home.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAEwD4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T06:01:52.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\Shop_Hoa\\Program.cs",
+              "RelativeDocumentMoniker": "Shop_Hoa\\Program.cs",
+              "ToolTip": "D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\Shop_Hoa\\Program.cs",
+              "RelativeToolTip": "Shop_Hoa\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T05:47:18.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Invoices.cs",
+              "DocumentMoniker": "D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\Shop_Hoa\\Invoices.cs",
+              "RelativeDocumentMoniker": "Shop_Hoa\\Invoices.cs",
+              "ToolTip": "D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\Shop_Hoa\\Invoices.cs",
+              "RelativeToolTip": "Shop_Hoa\\Invoices.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T07:17:38.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "History.cs",
+              "DocumentMoniker": "D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\Shop_Hoa\\History.cs",
+              "RelativeDocumentMoniker": "Shop_Hoa\\History.cs",
+              "ToolTip": "D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\Shop_Hoa\\History.cs",
+              "RelativeToolTip": "Shop_Hoa\\History.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T08:22:30.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DashBoard.cs",
+              "DocumentMoniker": "D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\Shop_Hoa\\DashBoard.cs",
+              "RelativeDocumentMoniker": "Shop_Hoa\\DashBoard.cs",
+              "ToolTip": "D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\Shop_Hoa\\DashBoard.cs",
+              "RelativeToolTip": "Shop_Hoa\\DashBoard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T09:05:38.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Products.cs",
+              "DocumentMoniker": "D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\Shop_Hoa\\Products.cs",
+              "RelativeDocumentMoniker": "Shop_Hoa\\Products.cs",
+              "ToolTip": "D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\Shop_Hoa\\Products.cs",
+              "RelativeToolTip": "Shop_Hoa\\Products.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T06:59:23.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Home.Designer.cs",
+              "DocumentMoniker": "D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\Shop_Hoa\\Home.Designer.cs",
+              "RelativeDocumentMoniker": "Shop_Hoa\\Home.Designer.cs",
+              "ToolTip": "D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\Shop_Hoa\\Home.Designer.cs",
+              "RelativeToolTip": "Shop_Hoa\\Home.Designer.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAowP8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T06:02:02.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DashBoard.cs [Design]",
+              "DocumentMoniker": "D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\Shop_Hoa\\DashBoard.cs",
+              "RelativeDocumentMoniker": "Shop_Hoa\\DashBoard.cs",
+              "ToolTip": "D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\Shop_Hoa\\DashBoard.cs [Design]",
+              "RelativeToolTip": "Shop_Hoa\\DashBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T06:27:29.058Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Invoices.cs [Design]",
+              "DocumentMoniker": "D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\Shop_Hoa\\Invoices.cs",
+              "RelativeDocumentMoniker": "Shop_Hoa\\Invoices.cs",
+              "ToolTip": "D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\Shop_Hoa\\Invoices.cs [Design]",
+              "RelativeToolTip": "Shop_Hoa\\Invoices.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T06:27:50.089Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\Shop_Hoa\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "Shop_Hoa\\DatabaseHelper.cs",
+              "ToolTip": "D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\Shop_Hoa\\DatabaseHelper.cs",
+              "RelativeToolTip": "Shop_Hoa\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T09:24:18.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Customers.cs [Design]",
+              "DocumentMoniker": "D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\Shop_Hoa\\Customers.cs",
+              "RelativeDocumentMoniker": "Shop_Hoa\\Customers.cs",
+              "ToolTip": "D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\Shop_Hoa\\Customers.cs [Design]",
+              "RelativeToolTip": "Shop_Hoa\\Customers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T06:28:26.887Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DashBoard.Designer.cs",
+              "DocumentMoniker": "D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\Shop_Hoa\\DashBoard.Designer.cs",
+              "RelativeDocumentMoniker": "Shop_Hoa\\DashBoard.Designer.cs",
+              "ToolTip": "D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\Shop_Hoa\\DashBoard.Designer.cs",
+              "RelativeToolTip": "Shop_Hoa\\DashBoard.Designer.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAMwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T09:08:10.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\Shop_Hoa\\Customers.cs",
+              "RelativeDocumentMoniker": "Shop_Hoa\\Customers.cs",
+              "ToolTip": "D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\Shop_Hoa\\Customers.cs",
+              "RelativeToolTip": "Shop_Hoa\\Customers.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T08:06:09.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "History.Designer.cs",
+              "DocumentMoniker": "D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\Shop_Hoa\\History.Designer.cs",
+              "RelativeDocumentMoniker": "Shop_Hoa\\History.Designer.cs",
+              "ToolTip": "D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\Shop_Hoa\\History.Designer.cs",
+              "RelativeToolTip": "Shop_Hoa\\History.Designer.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAMwJwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T08:22:45.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Products.Designer.cs",
+              "DocumentMoniker": "D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\Shop_Hoa\\Products.Designer.cs",
+              "RelativeDocumentMoniker": "Shop_Hoa\\Products.Designer.cs",
+              "ToolTip": "D:\\ASM\\Tung\\ASM_Hoa\\Shop_Hoa\\Shop_Hoa\\Products.Designer.cs",
+              "RelativeToolTip": "Shop_Hoa\\Products.Designer.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAowI0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T06:59:31.538Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+D:\ASM\Tung\ASM_Hoa\Shop_Hoa\Shop_Hoa\bin\Debug\Shop_Hoa.exe.config
+D:\ASM\Tung\ASM_Hoa\Shop_Hoa\Shop_Hoa\bin\Debug\Shop_Hoa.exe
+D:\ASM\Tung\ASM_Hoa\Shop_Hoa\Shop_Hoa\bin\Debug\Shop_Hoa.pdb
+D:\ASM\Tung\ASM_Hoa\Shop_Hoa\Shop_Hoa\obj\Debug\Shop_Hoa.csproj.AssemblyReference.cache
+D:\ASM\Tung\ASM_Hoa\Shop_Hoa\Shop_Hoa\obj\Debug\Shop_Hoa.Home.resources
+D:\ASM\Tung\ASM_Hoa\Shop_Hoa\Shop_Hoa\obj\Debug\Shop_Hoa.Properties.Resources.resources
+D:\ASM\Tung\ASM_Hoa\Shop_Hoa\Shop_Hoa\obj\Debug\Shop_Hoa.csproj.GenerateResource.cache
+D:\ASM\Tung\ASM_Hoa\Shop_Hoa\Shop_Hoa\obj\Debug\Shop_Hoa.csproj.CoreCompileInputs.cache
+D:\ASM\Tung\ASM_Hoa\Shop_Hoa\Shop_Hoa\obj\Debug\Shop_Hoa.exe
+D:\ASM\Tung\ASM_Hoa\Shop_Hoa\Shop_Hoa\obj\Debug\Shop_Hoa.pdb
+D:\ASM\Tung\ASM_Hoa\Shop_Hoa\Shop_Hoa\obj\Debug\Shop_Hoa.Customers.resources
+D:\ASM\Tung\ASM_Hoa\Shop_Hoa\Shop_Hoa\obj\Debug\Shop_Hoa.DashBoard.resources
+D:\ASM\Tung\ASM_Hoa\Shop_Hoa\Shop_Hoa\obj\Debug\Shop_Hoa.History.resources
+D:\ASM\Tung\ASM_Hoa\Shop_Hoa\Shop_Hoa\obj\Debug\Shop_Hoa.Invoices.resources
+D:\ASM\Tung\ASM_Hoa\Shop_Hoa\Shop_Hoa\obj\Debug\Shop_Hoa.Products.resources
+D:\ASM\Tung\ASM_Hoa\Shop_Hoa\Shop_Hoa\obj\Debug\Shop_Hoa.Login.resources
